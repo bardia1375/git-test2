@@ -1,11 +1,14 @@
-<div>danial</div>
+<div>danial</div>;
 
-import React from 'react'
+import React from "react";
 
 function danial() {
   return (
-    <div>danial</div>
-  )
+    <div>
+      {" "}
+      <div>danial</div>
+    </div>
+  );
 }
 
-export default danial
+export default danial;

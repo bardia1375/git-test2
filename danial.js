@@ -1,22 +1,9 @@
-import React from "react";
+import React from 'react'
 
 function danial() {
   return (
-    <div>
-      {" "}
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-      <div>danial</div>
-    </div>
-  );
+    <div>danial</div>
+  )
 }
 
-export default danial;
+export default danial

@@ -13,3 +13,4 @@ export default SALAM
 
 
 const bardia=3
+const bardia2=32
